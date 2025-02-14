@@ -3,11 +3,6 @@
 ## 📌 Overview
 This project explores **Natural Language Processing (NLP)** techniques to classify **English news articles** into different categories using **shallow machine learning models**. The goal is to build an efficient and interpretable classifier that can categorize news articles based on their textual content.
 
-## 👨‍💻 Team Members
-- **Alexander Romero**
-- **Camila Gómez**
-- **Kenji Minemura**
-
 ---
 
 ## 🔍 What is NLP?
